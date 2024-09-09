@@ -14,7 +14,7 @@ android_app_import {
         "Camera2",
         "GoogleCamera",
         "GoogleCameraGo",
-        "Aperture",
+        "Aperture"
     ],
     certificate: "platform",
     privileged: true,
